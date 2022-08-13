@@ -1,0 +1,1 @@
+//Mỗi màn hình có nhiều thẻ khác nhau
