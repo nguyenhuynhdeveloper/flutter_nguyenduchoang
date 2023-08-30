@@ -26,6 +26,11 @@ class CategoryItem extends StatelessWidget {
             ));
 
          */
+
+
+
+
+        
         //Cách 2: Sử dụng Navigator.pushNamed(context, /FoodsPage , arguments: {'category' : category}) 
         //Khi sử dụng pushNamed thì có thể sử dụng arguments để truyền tham số 
         //Để có thể sử dụng được pushNamed thì ở MaterialApp phải khai báo routeName
