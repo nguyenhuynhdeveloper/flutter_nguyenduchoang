@@ -1,3 +1,5 @@
+// FIlE: tổng hợp code của dãy Video dạy flutter của Thầy Nguyễn Đức Hoàn
+
 //Mỗi màn hình có nhiều thẻ khác nhau
 
 Trong android studio có thể lựa chọn điểm bắt đầu chương trình
